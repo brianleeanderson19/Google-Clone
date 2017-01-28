@@ -1,0 +1,114 @@
+* {
+  margin: 0px;
+}
+
+header {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+
+  text-align: right;
+}
+
+header a {
+  color: black;
+  font-family: sans-serif;
+  font-size: .8em;
+  text-decoration: none;
+
+}
+
+footer a {
+  color: black;
+  font-family: sans-serif;
+  font-size: .8em;
+  text-decoration: none;
+}
+
+img {
+  clear: both;
+  width: 100%;
+  text-align: center;
+  padding: 22px;
+}
+
+.botleft {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+
+.botright {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+#content {
+  margin-top: 200px !important;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+}
+
+div.search {
+  margin: auto;
+  width: 500px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+header ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 10px;
+
+}
+
+div img { 
+  max-width: 300px;
+  max-height: 1500px;
+}
+
+button#click {
+  margin: 11px 4px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: arial,sans-serif;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-weight: bold;
+  font-size: 13px;
+
+}
+
+button#click_two {
+  margin: 11px 4px;
+  width: 140px;
+  padding: 10px;
+  text-align: center;
+  font-family: arial,sans-serif;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-weight: bold;
+  font-size: 13px;
+
+}
+
+
+
+
+  
